@@ -23,7 +23,7 @@ author:
 url: "https://yord.io/" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: "UA-112081393-1"
 fb_appid:
 
 # Collection setting
