@@ -1,9 +1,12 @@
 ---
+title: 'The CUBE of Personal Leadership: Empathy'
 layout: post
-title:  "The CUBE of Personal Leadership: Empathy"
-date:   2020-09-30 13:45:00 +0200
-tags: personal-leadership cube
+date: '2020-09-30 13:45:00 +0200'
+tags:
+- personal-leadership
+- cube
 ---
+
 A manager asks one of his employees to come into his office. The numbers of this employee are down for the second quarter in a row.
 
 Manager A: "Your numbers are down, what are you going to do about it?"  

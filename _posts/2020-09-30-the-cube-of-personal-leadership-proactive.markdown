@@ -1,9 +1,12 @@
 ---
+title: 'The CUBE of Personal Leadership: Proactive'
 layout: post
-title:  "The CUBE of Personal Leadership: Proactive"
-date:   2020-09-30 13:25:00 +0200
-tags: personal-leadership cube
+date: '2020-09-30 13:25:00 +0200'
+tags:
+- personal-leadership
+- cube
 ---
+
 There are two roads you can walk when you want to change something.
 
 The first is the Road of Permission. On this road, you can only initiate change by asking for permission from the people in charge. For example, a developer can only start on a new feature after it is approved by the team lead.
