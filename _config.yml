@@ -21,7 +21,7 @@ author:
 
 # URL settings
 url: "https://yord.io/" #
-baseurl:
+baseurl: "https://yord.io/"
 permalink: /:title/
 google_analytics: "UA-112081393-1"
 fb_appid:
