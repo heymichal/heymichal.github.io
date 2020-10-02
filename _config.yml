@@ -20,8 +20,8 @@ author:
   avatar: /assets/img/avatar.png # change with your own avatar
 
 # URL settings
-url: "https://yord.io"
-baseurl: "https://yord.io"
+url: "https://yord.io" #
+baseurl: ""
 permalink: /:title/
 google_analytics: "UA-112081393-1"
 fb_appid:
