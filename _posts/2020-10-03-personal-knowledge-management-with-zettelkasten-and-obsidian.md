@@ -8,6 +8,9 @@ tags:
 - obsidian
 
 ---
+![A physical second brain](/uploads/stanislav-kondratiev-6po3qfkk7hq-unsplash.jpg "A physical second brain")  
+_Photo by_ [_Stanislav Kondratiev_](https://unsplash.com/@technobulka?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/s/photos/books?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 Did you ever have a brilliant thought while walking through nature? Or while showering? Or while riding your bike to work? Chances are you did. And chances are you totally forgot you had the thought a day or even an hour later.
 
 The mind gives you wonderful, creative insights in moments you least expect it. That's no surprise: your mind exists to _have_ ideas. At the same time, it is horrible at storing them. Tools like [Evernote](https://evernote.com/) or a more traditional, physical notebook can help, acting as our personal, external storage. The downside is that they lack capabilities to link individual ideas and notes together, creating knowledge silos instead.
