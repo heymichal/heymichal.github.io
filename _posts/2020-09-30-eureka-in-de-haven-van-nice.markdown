@@ -13,7 +13,7 @@ _Photo by_ [_Lottie Griffiths_](https://unsplash.com/@lottiegriff1206?utm_source
 
 Nice, 2018. Na een laat ontbijt, een wandeling heuvelop, een snelle lunch en nog wat meer wandelen komen we uiteindelijk aan in de haven. Met vier vrienden zitten we op een terras met uitzicht op bootjes die zo nu en dan de haven binnenvaren, terug van een zonnige dag op het water. Met dit prachtige uitzicht komen we zomaar op deze grote vraag des levens.
 
-Eerlijk gezegd heb ik geen idee wat ik op deze vraag moet antwoorden. Om wat tijd te winnen, vraag ik eerst aan hen hoe zij dat voor mij zien. Terwijl ik hun antwoorden aanhoor, denk ik tegelijkertijd na. Ik denk aan mijn studie informatica en wat ik daarmee in m'n dagelijkse werk en ook daarbuiten kan bereiken wat zou kunnen aansluiten op een "why". Ik denk aan het geven van atletiektraining aan de jeugd, wat ik sinds m'n vijftiende nu alwer een jaar of tien met veel plezier doe. Hoe dat allemaal past binnen de "why" waarvan ik zelf nog niet eens weet wat dat voor mij is, dat is een groot raadsel.
+Eerlijk gezegd heb ik geen idee wat ik op deze vraag moet antwoorden. Om wat tijd te winnen, vraag ik eerst aan hen hoe zij dat voor mij zien. Terwijl ik hun antwoorden aanhoor, denk ik tegelijkertijd na. Ik denk aan mijn studie informatica en wat ik daarmee in m'n dagelijkse werk en ook daarbuiten kan bereiken wat zou kunnen aansluiten op een "why". Ik denk aan het geven van atletiektraining aan de jeugd, wat ik sinds m'n vijftiende nu alweer een jaar of tien met veel plezier doe. Hoe dat allemaal past binnen de "why" waarvan ik zelf nog niet eens weet wat dat voor mij is, dat is een groot raadsel.
 
 Totdat alle puzzelstukjes op hun plaats vallen...
 
