@@ -89,4 +89,3 @@ plugins:
   - jekyll-postfiles
   - jekyll-admin
   - jekyll-seo-tag
-  - jekyll-target-blank

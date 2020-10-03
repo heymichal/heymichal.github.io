@@ -46,9 +46,6 @@ GEM
       jekyll (>= 3.3, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-target-blank (2.0.0)
-      jekyll (>= 3.0, < 5.0)
-      nokogiri (~> 1.10)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.3.0)
@@ -60,10 +57,7 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    mini_portile2 (2.4.0)
     multi_json (1.15.0)
-    nokogiri (1.10.10)
-      mini_portile2 (~> 2.4.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
@@ -107,7 +101,6 @@ DEPENDENCIES
   jekyll-postfiles (~> 3.1)
   jekyll-seo-tag (~> 2.6)
   jekyll-sitemap (~> 1.4)
-  jekyll-target-blank (~> 2.0)
 
 BUNDLED WITH
    2.1.4
