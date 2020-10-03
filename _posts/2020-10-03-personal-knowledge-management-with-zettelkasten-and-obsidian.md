@@ -1,6 +1,6 @@
 ---
 title: Personal Knowledge Management with Zettelkasten and Obsidian
-layout: ''
+layout: post
 date: 2020-10-03 20:00:00 +0000
 tags:
 - personal-knowledge-management
