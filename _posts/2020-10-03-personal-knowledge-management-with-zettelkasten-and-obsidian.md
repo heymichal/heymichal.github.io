@@ -1,7 +1,7 @@
 ---
 title: Personal Knowledge Management with Zettelkasten and Obsidian
 layout: post
-date: 2020-10-03 20:00:00 +0000
+date: 2020-10-03 10:00:00 +0200
 tags:
 - personal-knowledge-management
 - second brain
