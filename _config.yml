@@ -5,7 +5,7 @@ description: >- # site description
 lang: en-US # default lang
 timezone: Europe/Amsterdam # set your timezone
 # image: assets/img/avatar.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/froodooo # site repo [optional]
+repo: https://github.com/Froodooo/froodooo.github.io # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
@@ -21,7 +21,7 @@ author:
 
 # URL settings
 url: "https://yord.io" #
-baseurl: ""
+baseurl: "https://yord.io"
 permalink: /:title/
 google_analytics: "UA-112081393-1"
 fb_appid:
