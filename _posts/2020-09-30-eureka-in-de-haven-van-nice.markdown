@@ -25,4 +25,4 @@ Het enthousiasme en mijn ervaringen van dingen die ik vanuit mijn eigen interess
 
 Zo zijn developer en mentor, sporter en trainer aan elkaar gekoppeld. De leerling en de leraar. De Jedi-apprentice en zijn -master. Allen geven ze hun kennis door aan de volgende groep. Een proces dat al duizenden jaren zo verloopt en waar ik bovengemiddeld geïnteresseerd in ben.
 
-Nadat mijn vrienden hun verhaal hebben gedaan, vertel ik hen het mijne. Terwijl ik praat zie ik veel geknik, wat mij bevestigd in mijn kleine eureka-moment. Het pad is helder, nu het vervolg nog. Plannen zijn niks waard als ze onuitgevoerd in de onderste la blijven liggen. Terwijl de zon in zee zakt en ik op m'n laatste stukje verse vis kauw, droom ik over nieuwe avonturen.
+Nadat mijn vrienden hun verhaal hebben gedaan, vertel ik hen het mijne. Terwijl ik praat zie ik veel geknik, wat mij bevestigt in mijn kleine eureka-moment. Het pad is helder, nu het vervolg nog. Plannen zijn niks waard als ze onuitgevoerd in de onderste la blijven liggen. Terwijl de zon in zee zakt en ik op m'n laatste stukje verse vis kauw, droom ik over nieuwe avonturen.
