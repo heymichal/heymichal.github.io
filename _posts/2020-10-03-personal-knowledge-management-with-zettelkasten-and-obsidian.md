@@ -37,6 +37,9 @@ So, on to software. As far as software goes, it should check two boxes: it shoul
 
 I chose [Obsidian](https://obsidian.md/). It's a knowledge base on top of plain text Markdown files kept locally on your computer (which I also store in the cloud with [Dropbox](https://www.dropbox.com/h)). Its main features are linking files together and visualize them in a graph view. Of course, there are a lot of alternatives which I'm leaving out of scope here. To just name a few: [Notion](https://www.notion.so/Clips-783299e2c1c0450a81f3e2173fcda0c6), [Roam Research](https://roamresearch.com/), [RemNote](https://www.remnote.io/) and [Evernote](https://evernote.com/).
 
+![](/uploads/josh-riemer-oh5brdggi2w-unsplash.jpg)  
+_Photo by_ [_Josh Riemer_](https://unsplash.com/@joshriemer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/s/photos/brain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 ## Example workflow
 
 Let's take a look at how I go about making notes on some content and how I put this into my second brain in Obsidian, using the article [Building a Second Brain: An Overview](https://fortelabs.co/blog/basboverview/) as an example.
