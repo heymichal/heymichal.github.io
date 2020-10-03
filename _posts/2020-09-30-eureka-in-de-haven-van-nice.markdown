@@ -2,8 +2,7 @@
 title: Eureka in de haven van Nice
 layout: post
 date: 2020-09-30T14:00:00.000+02:00
-tags:
-- aan-de-slag-voor-de-klas
+tags: []
 
 ---
 "Wat is jouw 'why' in het leven?"
