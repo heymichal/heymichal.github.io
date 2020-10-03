@@ -1,12 +1,11 @@
 ---
 title: 'The CUBE of Personal Leadership: Observe'
 layout: post
-date: '2020-09-30 13:40:00 +0200'
+date: 2020-09-30 13:40:00 +0200
 tags:
-- personal-leadership
-- cube
----
+- Personal Leadership
 
+---
 Feedback can be based on interpretations or observations.
 
 Feedback based on interpretations means that the person who gives the feedback makes assumptions about what he or she sees. And we know: an assumption is the mother of all fuck-ups.
