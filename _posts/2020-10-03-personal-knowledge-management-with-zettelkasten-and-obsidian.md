@@ -19,7 +19,7 @@ Over the last few years, the notion of a [Second Brain](https://fortelabs.co/blo
 
 I took a dive into the wondrous world of Personal Knowledge Management (PKM) systems. I read about and experimented with various strategies to figure out which one works best for me (although that will be a continuous and never-ending process). What I do want my system to be is [Stupid Simple](https://en.wikipedia.org/wiki/KISS_principle). Starting from this principle, I ended up using a combination of Zettelkasten, [LYT](https://forum.obsidian.md/t/lyt-kit-live-on-obsidian-publish-downloadable-on-oct-13th/390) (notes organized with an index) and [Obsidian](https://obsidian.md/). Let me take you on a trip through my second brain.
 
-## The method: Zettelkasten with IMF/LYT
+## The method: Zettelkasten with LYT
 
 My second brain is built on two pillars: Zettelkasten and Linking Your Thinking (LYT).
 
