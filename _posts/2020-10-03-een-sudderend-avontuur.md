@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Een sudderend avontuur
-date: 2020-10-03 18:40:00 +0000
+date: 2020-10-03T18:40:00.000+00:00
 tags:
 - aan-de-slag-voor-de-klas
 
@@ -9,7 +9,7 @@ tags:
 ![](/uploads/8-low-ural-l3mr7vsdmd4-unsplash.jpg)  
 _Foto van_ [_8-Low Ural_](https://unsplash.com/@ural_8_low?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _op_ [_Unsplash_](https://unsplash.com/s/photos/stew?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-Puzzelstukjes kunnen in je hoofd snel op hun plaats vallen, maar de vertaling naar de werkelijkheid laat soms op zich wachten. Na het \[\[Eureka in de haven van Nice\]\] heeft het idee van leraarschap liggen sudderen, als een stoofpot op het achterste pitje van een gasfornuis.
+Puzzelstukjes kunnen in je hoofd snel op hun plaats vallen, maar de vertaling naar de werkelijkheid laat soms op zich wachten. Na het [Eureka in de haven van Nice]({% post_url 2020-09-30-eureka-in-de-haven-van-nice %}) heeft het idee van leraarschap liggen sudderen, als een stoofpot op het achterste pitje van een gasfornuis.
 
 Tot eind 2019. Of er een aanleiding voor was weet ik niet meer, maar mijn interesse voor het leraarschap verplaatste zich weer naar de voorgrond. Na contact met één van de opleiders van het programma [Aan de Slag voor de Klas](https://www.uva.nl/programmas/lerarenopleiding/aan-de-slag-voor-de-klas/aan-de-slag-voor-de-klas.html?cb) en een meeloopdag op de middelbare school waar deze persoon informatica-docent is, was mijn enthousiasme voor het leraarschap nog steeds springlevend. Dus: begin 2020 ingeschreven voor het check-in traject van het programma, klaar voor de start en toen... Tja, je weet wel. Pandemie.
 
@@ -20,7 +20,6 @@ De eerste check-in bijeenkomst in fysieke vorm stond in het teken van kennismake
 Na een introductie van het programma was het aan de deelnemers om in tweetallen een aantal vooraf opgeschreven, onderwijsgerelateerde casussen te bespreken. Over gepersonaliseerd leren, bijvoorbeeld:
 
 > Leerling 2020 heeft van 2015-2018 "gepersonaliseerd onderwijs" voor leerlingen gerealiseerd. Daarbij is er meer ruimte voor leerlingen m.b.t. hoe, wat en waar ze willen leren. Om dit te realiseren checken scholen vaker of leerlingen de lesstof beheersen die ze dienen te beheersen. Ook hebben zij een flexibel rooster ingevoerd en wordt er meer gebruik gemaakt van individuele leerroutes, coaching en digitale didactiek. Vanwege het succes wordt dit traject vervolgd onder de naam "Voortgezet Leren" waarbij scholen vooral ondersteund worden om leerlingen beter voor te bereiden op de toekomst.
-> 
 >
 > **_Vraag:_** _Wat zijn volgens jou de voor- en de nadelen van gepersonaliseerd leren en in hoeverre zou je kiezen voor deze aanpak (en waarom)?_
 
@@ -29,7 +28,6 @@ Bij deze casus gingen mijn gedachten meteen uit naar initiatieven als het [Moder
 Nog een casus dan, over beleid:
 
 > Het aantal inschrijvingen op de school neemt al een aantal jaren af. Om meer leerlingen aan te trekken, wil de school een Technasiumafdeling opzetten (=een projectmatige vorm van bèta-onderwijs). Jij hebt veel ervaring met het implementeren van organisatieveranderingen en ziet dan ook dat de wijze en de snelheid waarop het managementteam deze verandering wil implementeren vrij onhandig is. Jij weet wel beter!
-> 
 >
 > **_Vraag:_** _Hoe ga jij hiermee om in de positie die je hebt als startende leerkracht? Waar verwacht je tegenaan te lopen?_
 
