@@ -1,12 +1,11 @@
 ---
 title: Eureka in de haven van Nice
 layout: post
-date: '2020-09-30 14:00:00 +0200'
+date: 2020-09-30 14:00:00 +0200
 tags:
 - aan-de-slag-voor-de-klas
-- ask
----
 
+---
 "Wat is jouw 'why' in het leven?"
 
 Nice, 2018. Na een laat ontbijt, een wandeling heuvelop, een snelle lunch en nog wat meer wandelen komen we uiteindelijk aan in de haven. Met vier vrienden zitten we op een terras met uitzicht op bootjes die zo nu en dan de haven binnenvaren, terug van een zonnige dag op het water. Met dit prachtige uitzicht komen we zomaar op deze grote vraag des levens.
