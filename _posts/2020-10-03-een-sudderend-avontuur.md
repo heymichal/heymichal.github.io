@@ -3,7 +3,7 @@ layout: post
 title: Een sudderend avontuur
 date: 2020-10-03T18:40:00.000+00:00
 tags:
-- aan-de-slag-voor-de-klas
+- Aan de Slag voor de Klas
 
 ---
 ![](/uploads/8-low-ural-l3mr7vsdmd4-unsplash.jpg)  
