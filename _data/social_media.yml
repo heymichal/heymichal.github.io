@@ -1,8 +1,8 @@
-email:
-  id: 'info@yordiverkroost.com'
-  href: 'mailto:'
-  title: 'Email'
-  fa-icon: 'fa-envelope-square'
+linkedin:
+  id: 'yordiverkroost'
+  href: 'https://www.linkedin.com/in/'
+  title: 'LinkedIn'
+  fa-icon: 'fa-linkedin-square'
 
 twitter:
   id: 'yordiverkroost'
@@ -15,3 +15,9 @@ github:
   href: 'https://github.com/'
   title: 'GitHub'
   fa-icon: 'fa-github-square'
+
+email:
+  id: 'info@yordiverkroost.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
