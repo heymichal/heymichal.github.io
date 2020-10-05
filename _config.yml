@@ -1,5 +1,5 @@
 # Site settings
-title: yord.io # site title
+title: Yordi Verkroost # site title
 description: >- # site description
   Living the Digital World
 lang: en-US # default lang
@@ -20,7 +20,7 @@ author:
   avatar: /assets/img/avatar.png # change with your own avatar
 
 # URL settings
-url: "https://yord.io" #
+url: "https://yordi.me" #
 baseurl: ""
 permalink: /:title/
 google_analytics: "UA-112081393-1"
