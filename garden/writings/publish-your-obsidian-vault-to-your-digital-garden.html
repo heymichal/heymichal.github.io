@@ -1,0 +1,74 @@
+---
+title: writings/Publish your Obsidian Vault to your Digital Garden
+layout: page
+comments: false
+---
+
+<div id="content"><p>The brain is for <em>having</em> ideas, we need something else to <em>store</em> them. We need a <a href="https://fortelabs.co/blog/basboverview/">Second Brain</a>.</p>
+
+<p>I'm inspired by <a href="https://www.buildingasecondbrain.com/">building a second brain</a>. A place where you can offload your ideas into notes for future use. This relates to the concept of a <a href="https://maggieappleton.com/garden/">Digital Garden</a>. A digital garden is a public place on the internet where you publish these notes for others to see and enjoy.</p>
+
+<p>I use <a href="https://obsidian.md/">Obsidian</a> to manage my second brain. Obsidian recently launched their <a href="https://publish.obsidian.md/help/Plugins/Publish">Publish</a> plugin. This publishes your notes to the internet. The result is a <a href="https://publish.obsidian.md/lyt-kit/_START%20HERE">visual representation of your second brain</a>.</p>
+
+<p>But I missed something. I have <a href="https://yordi.me/">my own place on the internet</a> and would like to have my second brain, my digital garden, in the same place. While Obsidian Publish is cool, it is different from my website's style. What I'm looking for is a garden of my notes that I can integrate with my existing website. I've looked around quite a bit to find the tools that can help me achieve this wish, and I found them. Meet the combination of <a href="https://obsidian.md/">Obsidian</a>, <a href="https://jekyllrb.com/">Jekyll</a> and the <a href="https://github.com/kmaasrud/obsidian-html">Obsidian to HTML converter</a>: <a href="https://yordi.me/garden/">my digital garden</a>.</p>
+
+<h1 id="a-look-at-the-internals">A look at the internals</h1>
+
+<p>Jekyll is one of the tools available to create your website based on plain text- and markdown files. A couple of alternatives are <a href="https://www.gatsbyjs.com/">Gatsby</a>, <a href="https://gohugo.io/">Hugo</a> and <a href="https://hexo.io/">Hexo</a> To use a setup that is like to mine, any static site generator will do.</p>
+
+<p>The real magic is in the <a href="https://github.com/kmaasrud/obsidian-html">Obsidian to HTML converter</a>. This is a Python script that takes (part of) an Obsidian Vault with notes and converts it into HTML files.</p>
+
+<h2 id="download-and-installation">Download and installation</h2>
+
+<p>You can install the converter using <code>pip</code>:</p>
+
+<pre><code>sudo pip install git+https://github.com/kmaasrud/obsidian-html.git
+</code></pre>
+
+<p>or you can clone the repository to your local computer and install it:</p>
+
+<pre><code>git clone https://github.com/kmaasrud/obsidian-html.git
+cd obsidian-html
+pip install .
+</code></pre>
+
+<p>I chose the latter option since I made a small edit of the script to let it fit my needs (more on that later).</p>
+
+<h2 id="run-the-converter">Run the converter</h2>
+
+<p>Once installed, run the converter using the command <code>obsidian-html</code>, combined with some arguments. I use the following one-liner to convert my Obsidian Vault into my website:</p>
+
+<pre><code>obsidian-html &lt;path to my Obsidian Vault&gt; -t template.hml -d "writings" "notes" -o &lt;path to my website&gt;/garden
+</code></pre>
+
+<p>The first part of the command points to the location of the Obsidian Vault on my computer. The argument  <code>-t</code> defines a template and puts the resulting HTML files into your own format. My template looks as follows:</p>
+
+<pre><code>---
+title: {title}
+layout: page
+comments: false
+---
+
+{content}
+</code></pre>
+
+<p>The top part (between dashes) is <a href="https://jekyllrb.com/docs/front-matter/">Jekyll Front Matter</a>: meta-data that describes a page. The template uses <code>{title}</code> and <code>{content}</code> to put the note's title and content in the HTML file.</p>
+
+<p>By default, the converter only converts the files that are in the root of the directory you give as input. To include nested directories, you can specify them using the argument <code>-d</code>. In my case, I also want to include the directories <code>writings</code> and <code>notes</code> in the converting process. Finally, the argument <code>-o</code> specifies the output path where the HTML files will end up. I let it point to the <code>/garden</code> directory of my website, which is all I need to include the HTML files when I publish my site.</p>
+
+<h2 id="a-small-converter-update">A small converter update</h2>
+
+<p>Obsidian uses double square brackets (<code>[like so](/garden/like-so)</code>) to link from one page to another. By default, the converter creates relative links for this. For example, the link <code>[Luke Skywalker](/garden/luke-skywalker)</code> will end up as <code>&lt;a href="luke-skywalker"&gt;Luke Skywalker&lt;/a&gt;</code>. This messes up my website since I host all my notes under the directory <code>/garden</code>.</p>
+
+<p>To solve this challenge, I made a small update to the converter tool. The file <code>utils.py</code> (<a href="https://github.com/kmaasrud/obsidian-html/blob/master/obsidian_html/utils.py">find it here</a>) performs the link generation, in the function <code>md_link()</code> . I updated this function to always include my <code>/garden</code> directory as a prefix:</p>
+
+<pre><code>def md_link(text, link):
+    return "[" + text + "](/garden/" + link + ")"
+</code></pre>
+
+<hr />
+
+<p>And that's that! A nice and fairly simple way to publish my Obsidian Vault to my website.</p>
+
+<p>I'm curious how you use personal knowledge management tools (like Obsidian) and if you also publish your notes online. If so, please share them in the comments, I would love to check them out!</p>
+</div>
