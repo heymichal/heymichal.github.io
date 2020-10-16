@@ -1,0 +1,27 @@
+---
+layout: post
+title: Eb en vloed in Alasca
+date: 2020-10-14 20:00:00 +0000
+tags:
+- Aan de Slag voor de Klas
+
+---
+Als onderdeel van het check-in traject voor de opleiding [Aan de Slag voor de Klas](https://www.uva.nl/programmas/lerarenopleiding/aan-de-slag-voor-de-klas/aan-de-slag-voor-de-klas.html) lopen alle deelnemers twee dagen mee op een middelbare school. Twee dagen om te ruiken aan het onderwijs. Twee dagen om te bepalen of het beeld dat je in je hoofd hebt klopt met de werkelijkheid. Twee dagen om je te behoeden voor het scenario waarbij je harder het klaslokaal uitrent dan je naar binnen bent gekomen. Of waar je juist zo lang mogelijk binnen blijft, dat kan natuurlijk ook. De eerste meeloopdag - of bezoekdag, zoals de opleiding het communiceert - was op 28 september.
+
+![](/uploads/aaron-burden-6jyoil2ghvk-unsplash.jpg)  
+_Foto van_ [_Aaron Burden_](https://unsplash.com/@aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _op_ [_Unsplash_](https://unsplash.com/s/photos/education?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+Mijn dag begon met een vroege treinreis naar Amsterdam, met [ALASCA](https://alasca.espritscholen.nl/home/) op het Zeeburgereiland als eindbestemming. Op ALASCA wordt onderwijs op een andere, vernieuwende manier aangeboden. Vakken als Nederlands, wiskunde en geschiedenis bestaan niet afzonderlijk, maar zijn samengevoegd in modules met namen als "Amsterdam" en "Filosofie & Technologie". Dagen bestaan uit een dagstart, twee lesuren van tweeënhalf uur en dan nog een periode waarin leerlingen huiswerk kunnen maken en met hun vragen bij docenten terecht kunnen. Een "vernieuwingsschool met een geheel eigen onderwijsconcept", [zoals ze het bij ALASCA zelf noemen](https://alasca.espritscholen.nl/home/over-alasca-nederlands/profiel-alasca/).
+
+Na een ontvangst en introductie door de schoolopleider mochten we zelf op pad door de school. Langs bij de lessen, praatjes maken met leerlingen en docenten en met elkaar in discussie over wat we zagen, hoorden en dachten. Ik stapte een klas binnen en viel midden in het introductiepraatje van de docenten. Docenten. Meervoud, inderdaad. Bij ALASCA is het onderwijs ingericht op groepen van 56 leerlingen met twee docenten. Een enorme groep, maar door de onderwijsopzet toch goed te behappen. Na de introductie vlogen leerlingen namelijk als een herfststorm de klas uit, naar een rustige plek in de ruimte naast het lokaal, om daar op eigen tempo met projecten aan de slag te gaan.
+
+Dat de grote groepen geen probleem zijn viel me op door de tijd die leraren hadden om een praatje met ons te maken. Terwijl we het hadden over hun vak, hun kijk op onderwijs en waar ze op dit moment mee bezig waren, wisten de leerlingen wat er van ze verwacht werd. Zo konden ze zelfstandig aan de slag zonder daarbij continu de leraar nodig te hebben. Dat verschilt met het traditionele beeld van een leraar, orerend voor een klas met leerlingen waarvan je hoopt dat de stof bij ze binnenkomt en -blijft. Bij ALASCA is het _geven_ van onderwijs overgegaan naar het _ontwikkelen_ van onderwijs buiten de lessen om, waardoor leraren tijdens een les als coach en mentor optreden. Een gevalletje van de [flipped classroom](https://www.edutopia.org/blog/flipped-classroom-pro-and-con-mary-beth-hertz) zoals ik dat in [mijn vorige stukje](https://yordi.me/een-sudderend-avontuur/) al noemde en waar ik - met mijn ideaalbeeld van het onderwijs - fan van ben. Tijdens een les moeten de leerlingen aan het werk zijn, niet de docent.
+
+De leerlingen die ik sprak waren allen op hun manier fan van deze manier van onderwijs. Geen huiswerk, want dat doe je aan het eind van de dag op school. Werken in je eigen tempo, met een docent die dichtbij is om hulp te bieden op het moment dat je met de lesstof bezig bent. En misschien wel het belangrijkst: docenten die je als serieuze personen behandelen. Leren is een gezamenlijk proces waarbij de stof niet door de leraar als een tsunami over je wordt uitgestort maar als eb en vloed geleidelijk komt en gaat. Leren voor de lange termijn.
+
+![](/uploads/nattu-adnan-ai2trdvi6gm-unsplash.jpg)  
+_Foto van_ [_Nattu Adnan_](https://unsplash.com/@reallynattu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _op_ [_Unsplash_](https://unsplash.com/s/photos/tide?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+Dit alles klinkt als een ideaalbeeld. Onderwijs op z'n best. Natuurlijk zijn er ook kanttekeningen te plaatsen. Want moet uiteindelijk niet iedereen door hetzelfde centraal eindexamen, dat nog op de ouderwetse, traditionele vakken is gebaseerd? Jazeker. Om die reden is een school als ALASCA gedwongen om in de bovenbouw toch aandacht te besteden aan examenvoorbereiding en daardoor sommige vakken deels ook in de traditionele vorm aan te bieden. Daarbij is dit schooljaar extra spannend, omdat de eerste havo-klas in haar eindexamenjaar zit. Hoeveel leerlingen gaan er slagen? Wat zegt dat over het succes van dit onderwijsprincipe? Dat zijn vragen die dit jaar beantwoord gaan worden. Ik hoop van harte op een positief resultaat!
+
+Inmiddels leven we zo'n twee weken later. De pandemie slaat hard toe, al is het voortgezet onderwijs op een mondkapjesplicht na nog vrij van strengere maatregelen. De tweede bezoekdag ligt dus nog in het verschiet. Ik kan alvast niet wachten!
