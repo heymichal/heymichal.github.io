@@ -2,6 +2,7 @@
 layout: post
 title: Eb en vloed in Alasca
 date: 2020-10-14 20:00:00 +0000
+image: /uploads/aaron-burden-6jyoil2ghvk-unsplash.jpg
 tags:
 - Aan de Slag voor de Klas
 

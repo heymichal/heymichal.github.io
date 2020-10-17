@@ -2,6 +2,7 @@
 title: Personal Knowledge Management with Zettelkasten and Obsidian
 layout: post
 date: 2020-10-03T10:00:00.000+02:00
+image: /uploads/stanislav-kondratiev-6po3qfkk7hq-unsplash.jpg
 tags:
 - Personal Knowledge Management
 - Second Brain

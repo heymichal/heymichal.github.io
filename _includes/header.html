@@ -61,15 +61,12 @@
   <meta property="fb:app_id" content="{{ site.fb_appid }}" />
   <meta
     property="og:site_name"
-    content="{% if page.title %}{{ page.title | escape }} | {{
-      site.author.facebook
-    }}{% else %}{{ site.title | escape }}{% endif %}"
+    content="{{ site.title | escape }}"
   />
   <meta
     property="og:title"
-    content="{% if page.title %}{{ page.title | escape }} | {{
-      site.author.facebook
-    }}{% else %}{{ site.title | escape }}{% endif %}"
+    content="{% if page.title %}{{ page.title | escape }}
+    {% else %}{{ site.title | escape }}{% endif %}"
   />
   {% if page.location %}
   <meta property="og:type" content="article" />

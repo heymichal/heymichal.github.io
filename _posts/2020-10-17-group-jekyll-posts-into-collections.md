@@ -2,6 +2,7 @@
 layout: post
 title: Group Jekyll Posts into Collections
 date: 2020-10-17 15:09 +0200
+image: /uploads/jj-ying-8bghKxNU1j0-unsplash.jpg
 tags:
   - Jekyll
 ---

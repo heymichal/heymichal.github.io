@@ -2,6 +2,7 @@
 layout: post
 title: Publish your Obsidian Vault to your Digital Garden
 date: 2020-10-10 20:00:00 +0000
+image: /uploads/pexels-david-cassolato-818563.jpg
 tags:
 - Obsidian
 - Second Brain

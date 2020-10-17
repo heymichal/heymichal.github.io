@@ -2,6 +2,7 @@
 title: Eureka in de haven van Nice
 layout: post
 date: 2020-09-30T14:00:00.000+02:00
+image: /uploads/lottie-griffiths-i8ziluncsm8-unsplash.jpg
 tags:
 - Aan de Slag voor de Klas
 
