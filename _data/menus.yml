@@ -10,6 +10,10 @@
   url: /garden/
   external: false
 
+- title: ask
+  url: /ask/
+  external: false
+
 - title: archive
   url: /archive/
   external: false

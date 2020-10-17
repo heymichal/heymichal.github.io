@@ -30,6 +30,9 @@ fb_appid:
 collections:
   posts:
     output: true
+  ask:
+    output: true
+    permalink: /:title
 
 # Markdown settings
 markdown: kramdown

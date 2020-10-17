@@ -9,7 +9,7 @@ tags:
 ![](/uploads/8-low-ural-l3mr7vsdmd4-unsplash.jpg)  
 _Foto van_ [_8-Low Ural_](https://unsplash.com/@ural_8_low?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _op_ [_Unsplash_](https://unsplash.com/s/photos/stew?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-Puzzelstukjes kunnen in je hoofd snel op hun plaats vallen, maar de vertaling naar de werkelijkheid laat soms op zich wachten. Na het [Eureka in de haven van Nice]({% post_url 2020-09-30-eureka-in-de-haven-van-nice %}) heeft het idee van leraarschap liggen sudderen, als een stoofpot op het achterste pitje van een gasfornuis.
+Puzzelstukjes kunnen in je hoofd snel op hun plaats vallen, maar de vertaling naar de werkelijkheid laat soms op zich wachten. Na het [Eureka in de haven van Nice]({% link _ask/2020-09-30-eureka-in-de-haven-van-nice.markdown %}) heeft het idee van leraarschap liggen sudderen, als een stoofpot op het achterste pitje van een gasfornuis.
 
 Tot eind 2019. Of er een aanleiding voor was weet ik niet meer, maar mijn interesse voor het leraarschap verplaatste zich weer naar de voorgrond. Na contact met één van de opleiders van het programma [Aan de Slag voor de Klas](https://www.uva.nl/programmas/lerarenopleiding/aan-de-slag-voor-de-klas/aan-de-slag-voor-de-klas.html?cb) en een meeloopdag op de middelbare school waar deze persoon informatica-docent is, was mijn enthousiasme voor het leraarschap nog steeds springlevend. Dus: begin 2020 ingeschreven voor het check-in traject van het programma, klaar voor de start en toen... Tja, je weet wel. Pandemie.
 
