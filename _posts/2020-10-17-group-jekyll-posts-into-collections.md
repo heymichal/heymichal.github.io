@@ -45,6 +45,7 @@ collections:
 
 This syntax for permalinks makes each piece of content accessible from the root of my website. That results in links like `https://<your website>/<new series content>`.
 
----
+![](/uploads/jj-ying-8bghKxNU1j0-unsplash.jpg)
+*Photo by [JJ Ying](https://unsplash.com/@jjying?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/network?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 And that's it! A simple and effective way to separate a series of posts from your default Posts archive. I hope it helps you too!
