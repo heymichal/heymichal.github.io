@@ -7,7 +7,7 @@ tags:
   - Pragmatic Programmer
 ---
 
-> "Turn off the autopilot and take control. Constantly critique and appraise your work."
+> Turn off the autopilot and take control. Constantly critique and appraise your work.
 
 Former head of IBM [Thomas J. Watson](https://en.wikipedia.org/wiki/Thomas_J._Watson) was frustrated. He was expecting ideas from his sales managers on how to improve the business, but none of them could deliver. Annoyed by this lack of ingenuity, he took the word and said: 
 
