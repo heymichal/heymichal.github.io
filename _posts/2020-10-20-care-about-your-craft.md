@@ -6,7 +6,7 @@ tags:
   - Pragmatic Programmer
 ---
 
-> "Why spend your life developing software unless you care about doing it well?"
+> Why spend your life developing software unless you care about doing it well?
 
 This quote was taken from a programming book, but it's larger than that. I dare say "caring about your craft" is essential anywhere. Why would you keep doing what you do instead of the thing you actually want to do?
 
