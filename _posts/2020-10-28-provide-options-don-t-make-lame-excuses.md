@@ -9,7 +9,7 @@ tags:
 
 > Instead of excuses, provide options. Don't say it can't be done; explain what *can* be done.
 
-Regardless of how well you prepare something, there's always a chance things don't turn out the way you thought. In software development, even the best projects can fail in unexpected ways. Even those with the highest code quality and loads of test coverage
+Regardless of how well you prepare something, there's always a chance things don't turn out the way you thought. In software development, even the best projects can fail in unexpected ways. Even those with the highest code quality and loads of test coverage.
 
 The ultimate question is: how do you deal with such unforeseen scenarios? You have two options: either you blame everything else, or you take responsibility. It's obvious that the tip in this post's title is in favor of the latter option. Even when something outside of your control fails, you can take responsibility. There are always options you can offer as an alternative. And in the worst case you apologize, bite the dust, and get on with your life.
 
