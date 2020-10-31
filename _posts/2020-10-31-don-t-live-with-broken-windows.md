@@ -19,3 +19,7 @@ This is the "Broken Window Theory" in full glory. Leave a dent in your code and 
 > "All the rest of this code is crap, I'll just follow suit."
 
 For that reason, fix each "broken window" in your code as soon as you find it. And if there is insufficient time, board it up and promise that you will fix it later.
+
+---
+
+This post is part of a series about the [Pragmatic Programmer]({% link garden/pragmatic-programmer.html %}).
