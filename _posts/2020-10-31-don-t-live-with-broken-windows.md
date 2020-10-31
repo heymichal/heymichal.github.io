@@ -2,6 +2,7 @@
 layout: post
 title: Don't Live with Broken Windows
 date: 2020-10-31 18:12 +0100
+image: /uploads/matt-hearne-LA0NPeHdp5A-unsplash.jpg
 tags:
   - Pragmatic Programmer
 ---
